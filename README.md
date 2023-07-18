@@ -34,7 +34,7 @@ The user will interact with ChatGPT to describe their activities, receive sugges
 
 - [ ] v0: focus on it as a simple tool
 - [x] v0.1.1: Create GitHub account, repository, and README.md
-- [ ] v0.1.2: make it work
+- [ ] v0.1.9: make it work
 - [ ] v1: focus on it as a open source project
 - [ ] v1.1: complete the install guide for both ChatGPT and Python
 - [ ] v2: focus on it as a product, so it can be usable out of the box
