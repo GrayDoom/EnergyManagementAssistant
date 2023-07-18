@@ -37,8 +37,12 @@ The user will interact with ChatGPT to describe their activities, receive sugges
 - [ ] v0.1.2: make it work
 - [ ] v1: focus on it as a open source project
 - [ ] v1.1: complete the install guide for both ChatGPT and Python
-- [ ] v2: focus on it as a product, so it can be usable out of the box.
-- [ ] v3: make it a AI project, copy and paste the idea then this project can be generated with any programming language. A codeless or codefree project, and I must be an AI scientist at that time lol.
+- [ ] v2: focus on it as a product, so it can be usable out of the box
+- [ ] v3: Work on the multi input and output.
+- [ ] v3.1: Incorporate generic webcam recognition
+- [ ] v3.2: Utilize other senser such as [Soil radar](https://atap.google.com/soli/), smartwatches, and other contactless multimodal tracking
+- [ ] v4: Predict behavior and provide assistance based on physiological indicators and real-world events.
+- [ ] vα: Make it a AI project, copy and paste the idea then this project can be generated with any programming language. A codeless or codefree project, and I must be an AI scientist at that time lol.
 
 ## Installation and Setup
 
