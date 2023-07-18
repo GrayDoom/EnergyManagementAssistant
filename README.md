@@ -2,7 +2,10 @@
 
 ## Project Status
 
-This project is actively under development. The current version is v0.1.1.
+This project is actively under development. The current version is v0.1.x.
+
+Currently in `Chinese` since prompt engineering is kinda art and I am not mastering of English.
+Will translate it into English in future updates.
 
 ## Idea
 
