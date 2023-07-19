@@ -7,6 +7,8 @@ This project is actively under development. The current version is v0.1.x.
 Currently in `Chinese` since prompt engineering is kinda art and I am not mastering of English.
 Will translate it into English in future updates.
 
+I just realized that Excel / Google Sheet might be a simple and good enough tool...
+
 ## Idea
 
 Sometime I set at my seat and play too long with keyboard(Flow/Hyperfocus_ADHD), it is not healthy right?

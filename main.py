@@ -16,7 +16,8 @@ def copy_and_print(text, contain):
 def change(args):
     # args is a list of strings, transfer it to log_manager insert function
     # use return value copy_and_print
-    text = log_manager.insert(args)
+    csv_string = ','.join(args)
+    text = log_manager.insert(csv_string)
     copy_and_print(text, True)
 
 class ex_change():
@@ -49,8 +50,9 @@ def begin():
 def start(args):
     # This is the info about the user's status when they start this manager
     # similar to the change function. But need more steps, maybe.
-    log_manager.insert(args)
-    copy_and_print(" ".join(args), True)
+    csv_string = ','.join(args)
+    text = log_manager.update(csv_string)
+    copy_and_print(text, True)
 
 def end(args):
     # This is the info about the user's status when they end this manager
