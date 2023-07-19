@@ -55,6 +55,7 @@ The user will interact with ChatGPT to describe their activities, receive sugges
 
 - ChatGPT
 - Python
+- ~~Google Sheet~~
 
 ### Installation
 
